@@ -6,17 +6,28 @@ Bienvenue dans ce projet d’interface d’horloge numérique moderne, conçue p
 
 👉 https://nnangassejb10.github.io/Horloge-Num-rique-/
 
-🎯 Objectifs du projet
+🎯 Objectifs du projet 
+
 Afficher l’heure en temps réel
-Proposer une interface simple et lisible
+
+Proposer une interface simple et lisible 
+
 Offrir une expérience utilisateur fluide
+
 Garantir une compatibilité sur tous les types d’écrans
+
 ⚙️ Fonctionnalités principales
+
 ⏱️ Affichage dynamique de l’heure
+
 🔄 Mise à jour en temps réel
+
 📱 Design responsive (mobile, tablette, desktop)
+
 🎨 Interface propre et moderne
+
 🛠️ Technologies utilisées
+
 HTML
 CSS
 JavaScript
